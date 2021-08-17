@@ -1,7 +1,7 @@
 {
   "name": "create-mc-datapack",
   "version": "0.0.8",
-  "description": "Quick and easy way to setup a folder for your new Scratch Addons addon!",
+  "description": "Quick and easy way to setup a folder for your new minecraft datapack!",
   "bin": {
     "create-mc-datapack": "cli.js"
   },
