@@ -96,5 +96,5 @@ const fs = require("fs");
     nameFuncTick + "\n"
   );
 
-  console.log("\x1b[34m%s", "Datapaack created:", dir, "\x1b[0m");
+  console.log("\x1b[34m%s", "Datapack created:", dir, "\x1b[0m");
 })();
